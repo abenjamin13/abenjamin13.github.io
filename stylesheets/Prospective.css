@@ -61,5 +61,10 @@ ul.posts li {
 }
 .test{
   text-align: left;
-  display: inline;
+  display:inline-flex;;
+  padding-left: 2em;
+  padding-right: 2em;
+}
+.test p{
+  width: 60%;
 }
