@@ -68,3 +68,8 @@ ul.posts li {
 .test p{
   width: 60%;
 }
+.greekweek{
+  padding-left: 2em;
+  padding-right: 2em;
+  text-align: left;
+}
