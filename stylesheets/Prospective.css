@@ -53,3 +53,13 @@ ul.posts {
 ul.posts li {
     list-style: none;
 }
+
+.blurb{
+  text-align: left;
+  padding-left: 2em;
+  padding-right: 2em;
+}
+.test{
+  text-align: left;
+  display: inline;
+}
