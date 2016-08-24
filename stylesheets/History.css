@@ -8,7 +8,7 @@ body {
     align-items: center;
     text-align: center;
 }
-nav ul {
+ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
     padding: 0px;
     list-style: none;
@@ -17,7 +17,7 @@ nav ul {
     display: inline-flex;
 
 }
-nav ul li {
+li {
 
     margin-right: 20px;
 }
@@ -44,13 +44,4 @@ h2{
 footer {
     border-top: 1px solid #d5d5d5;
     font-size: .8em;
-}
-
-ul.posts {
-    margin: 20px auto 40px;
-    font-size: 1.5em;
-}
-
-ul.posts li {
-    list-style: none;
 }
