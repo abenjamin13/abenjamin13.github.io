@@ -24,14 +24,6 @@ a {
     text-decoration: none;
     color: #999;
 }
-a.button {
-    -webkit-appearance: button;
-    -moz-appearance: button;
-    appearance: button;
-
-    text-decoration: none;
-    color: initial;
-}
 a:hover {
     text-decoration: underline;
 }
@@ -40,7 +32,7 @@ h1 {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
 }
 p {
-    font-size: 1em;
+    font-size: 1.5em;
     line-height: 1.4em;
     color: #333;
 }
